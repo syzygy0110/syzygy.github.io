@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Echo Blog</title>
   
-  <subtitle>Talking With My Past And Future Self</subtitle>
+  
   <link href="http://echochen.net/atom.xml" rel="self"/>
   
   <link href="http://echochen.net/"/>
